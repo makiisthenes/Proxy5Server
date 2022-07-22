@@ -14,6 +14,7 @@ Running the following to install:
 ```python
 pip install makiproxy5
 ```
+https://pypi.org/project/makiproxy5/0.0.1/
 
 ----
 #### Usage
