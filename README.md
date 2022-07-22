@@ -1,3 +1,9 @@
+[![HitCount](https://hits.dwyl.com/makiisthenes/Proxy5Server.svg?style=flat-square&show=unique)](http://hits.dwyl.com/makiisthenes/Proxy5Server)
+![Forks](https://img.shields.io/github/forks/makiisthenes/Proxy5Server)
+![Stars](https://img.shields.io/github/stars/makiisthenes/Proxy5Server)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)]([https://www.linkedin.com/in/isaac-kogan-5a45b9193/](https://www.linkedin.com/in/michael-p-88b015200/) )
+
+
 ## Python Socks5 Proxy Server
 ### Allows users to run a Proxy5 server on thier own local computer, implemented using sockets.
 
